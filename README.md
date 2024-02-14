@@ -6,6 +6,6 @@
 ## 실행 방법
 ```BattleCity\x64\Debug\FrameWork.exe```
 
--발표영상링크
+## 발표영상링크
 https://www.youtube.com/watch?v=uGUO5QkJJjg&t=4s
 
